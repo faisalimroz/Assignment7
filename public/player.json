@@ -1,0 +1,148 @@
+[
+    {
+        "id": "1",
+       
+        "name": "Taskin",
+        
+        "price": 42000,
+     
+        
+        
+        "img": "https://resources.pulse.icc-cricket.com/ICC/photo/2019/04/28/1829c0f6-4d98-482b-9b9c-531f8231d54e/GettyImages-694070582.jpg"
+      
+      },
+      {
+        "id": "2",
+       
+        "name": "Shakib",
+        
+        "price": 20000,
+     
+        
+        
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBuUly4NdUkE8-dqyw1X4QV4Nj7h-S9V2EwmvOFd410x-0nlS64G8YuO5XUfo9hyKrr9M&usqp=CAU"
+      
+      },
+      
+      
+      {
+        "id": "3",
+       
+        "name": "Musfiq",
+        
+        "price": 10020,
+     
+        
+        
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhizvCHKGvMG30DaVJ_FlvbjbhZUHRrhlWLCBlqufNmvFn2Bl3M87RFNK-8ba0xfaL-3o&usqp=CAU"
+      
+      },
+      {
+        "id": "4",
+       
+        "name": "Tamim",
+        
+        "price": 11420,
+     
+        
+        
+        "img": "https://www.zoomnews.in/uploads_2019/newses/tamim_258149619_sm.webp"
+      
+      },
+      {
+        "id": "5",
+       
+        "name": "Afif",
+        
+        "price": 22420,
+     
+        
+        
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREbDxkHmz37PWF0LFSYQUf979xY-wCzDeZlQ&usqp=CAU"
+      
+      },
+      {
+        "id": "6",
+       
+        "name": "Mustafiz",
+        
+        "price": 44420,
+     
+        
+        
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx8oOG3ruZIX1CCKuuAadxgyztv4bor58f1g&usqp=CAU"
+      
+      },
+      {
+        "id": "7",
+       
+        "name": "Imrul",
+        
+        "price": 420,
+     
+        
+        
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHd2THx8Hh8wZhOG1GAqtJGTuXYle7myzvPQ&usqp=CAU"
+      
+      },
+      {
+        "id": "8",
+       
+        "name": "Nasir",
+        
+        "price": 42000,
+     
+        
+        
+        "img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/316600/316633.png"
+      
+      },
+      {
+        "id": "9",
+       
+        "name": "Sabbir",
+        
+        "price": 66420,
+     
+        
+        
+        "img": "https://media.gqindia.com/wp-content/uploads/2019/05/Sabbir-Rehman.jpg"
+      
+      },
+      {
+        "id": "10",
+       
+        "name": "Liton",
+        
+        "price": 55420,
+     
+        
+        
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNmzryjf853-uqumDF6qmC--D8iDYkYmxf0tBeaKtNXXpFxCOy0JPXcvZLsnv8UTQ37uI&usqp=CAU"
+      
+      },
+      {
+        "id": "11",
+       
+        "name": "Mominul",
+        
+        "price": 22420,
+     
+        
+        
+        "img": "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1654019874.jpg"
+      
+      },
+      {
+        "id": "12",
+       
+        "name": "Rajjak",
+        
+        "price": 66420,
+     
+        
+        
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTGkbZ2Hl_YML5GtiLQpivIZ53son4UuoHCCLguAQDvFyQEKW8KCygBU6OIyUtSaOX4yY&usqp=CAU"
+      
+      }
+]

@@ -1,0 +1,22 @@
+.showplayer{
+    width: 300px;
+    height: 510px;
+    border: 1px solid #95A0A7;
+    border-radius: 8px;
+    margin-left: 20px;
+}
+.showplayer img{
+    height: 286px;
+    width: 286px;
+    border-radius: 8px;
+    margin:7px;
+}
+button{
+    height: 40px;
+    width: 120px;
+    background-color:#e4dc45;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 100px;
+}
