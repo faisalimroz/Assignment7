@@ -8,9 +8,11 @@ h1{
 }
 .cruk{
     border: 1px solid red;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+  
+    display: inline-block;
+    width: auto;
+    
+   
 
 }
 button{
@@ -18,4 +20,7 @@ button{
     align-items: center;
     width: 100%;
     
+}
+.btnn{
+    width: 10px;
 }

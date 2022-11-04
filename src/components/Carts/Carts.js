@@ -5,14 +5,14 @@ import './Carts.css'
 const Carts = ({cart}) => {
   
 
- 
+ console.log(cart)
   
  let salary=0;
- let name=''
+
  for(const p of cart){
      
     salary=parseFloat(p.player.price)+salary
-    name = p.player.name
+  
    
    }
 
@@ -22,8 +22,10 @@ const Carts = ({cart}) => {
         <div className='carts'>
              <div className='cruk'>
               
-              <h1 className='name'>Name:{name}</h1>
-              <button> click me</button>
+              
+              {
+              cart.map(ts=> <p>Name: {ts.player.name} </p> ) 
+              }
             </div>
             
          
